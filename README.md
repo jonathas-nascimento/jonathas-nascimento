@@ -37,4 +37,7 @@
 
 ---
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathas-nascimento&layout=compact&langs_count=7&theme=dracula"/>
+
+---
 ### Seja bem-vindo ao meu perfil! Vamos construir e aprender juntos. 🚀
